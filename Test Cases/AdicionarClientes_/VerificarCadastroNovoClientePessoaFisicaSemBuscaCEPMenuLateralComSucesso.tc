@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaFisicaSemBuscaCEPMenuLateralComSucesso</description>
+   <name>VerificarCadastroNovoClientePessoaFisicaSemBuscaCEPMenuLateralComSucesso</name>
+   <tag>VerificarCadastroNovoClientePessoaFisicaSemBuscaCEPMenuLateralComSucesso</tag>
+   <comment></comment>
+   <testCaseGuid>e1a2690f-bb2e-433c-8b6b-1796b7103af1</testCaseGuid>
+</TestCaseEntity>

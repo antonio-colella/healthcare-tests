@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>btnCancelar</description>
+   <name>btnCancelar</name>
+   <tag></tag>
+   <elementGuidId>f0f6a372-aff8-47c8-96d7-6743573300f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/app-clientes-upsert/thf-page-default/thf-page/div/thf-page-content/div/div[1]/div/form/thf-modal/div/div/div/div/div/div[3]/thf-button[1]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-clientes-upsert/thf-page-default/thf-page/div/thf-page-content/div/div[1]/div/form/thf-modal/div/div/div/div/div/div[3]/thf-button[1]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-clientes-upsert/thf-page-default/thf-page/div/thf-page-content/div/div[1]/div/form/thf-modal/div/div/div/div/div/div[3]/thf-button[1]/button</value>
+   </webElementProperties>
+</WebElementEntity>

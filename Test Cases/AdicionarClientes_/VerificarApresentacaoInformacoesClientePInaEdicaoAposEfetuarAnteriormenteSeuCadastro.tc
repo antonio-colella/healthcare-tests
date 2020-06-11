@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarApresentacaoInformacoesClientePInaEdicaoAposEfetuarAnteriormenteSeuCadastro</description>
+   <name>VerificarApresentacaoInformacoesClientePInaEdicaoAposEfetuarAnteriormenteSeuCadastro</name>
+   <tag>VerificarApresentacaoInformacoesClientePInaEdicaoAposEfetuarAnteriormenteSeuCadastro</tag>
+   <comment></comment>
+   <testCaseGuid>20d69890-e086-4675-9351-d7f5fbc3081c</testCaseGuid>
+</TestCaseEntity>

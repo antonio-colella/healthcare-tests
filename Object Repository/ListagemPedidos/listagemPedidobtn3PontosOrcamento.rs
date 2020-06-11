@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listagemPedidobtn3PontosOrcamento</name>
+   <tag></tag>
+   <elementGuidId>46e13993-73c9-45c2-9311-42f40f92487b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thf-icon thf-icon-more thf-clickable</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;thf-wrapper&quot;]/app-pedidos[1]/thf-page-default[1]/thf-page[1]/div[@class=&quot;thf-page&quot;]/thf-page-content[1]/div[@class=&quot;thf-page-content&quot;]/div[@class=&quot;pedido-list&quot;]/div[@class=&quot;thf-row&quot;]/thf-table[1]/thf-container[1]/div[@class=&quot;thf-container-no-padding&quot;]/div[1]/div[@class=&quot;thf-table-main-container&quot;]/div[@class=&quot;thf-table-wrapper&quot;]/div[1]/table[@class=&quot;thf-table&quot;]/tbody[@class=&quot;thf-table-group-row&quot;]/tr[@class=&quot;thf-table-row&quot;]/td[@class=&quot;thf-table-column-actions&quot;]/span[@class=&quot;thf-icon thf-icon-more thf-clickable&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>screenshot</name>
+      <type>Main</type>
+      <value>C:/Users/antonio.colella/Katalon Studio/teste/Screenshots/Targets/span_Orcamento_thf-icon thf-icon-more thf-clickable.png</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

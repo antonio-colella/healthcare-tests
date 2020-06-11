@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ConsultaPedidospelas3PrimeirosLetrasdoNomeCliente</description>
+   <name>ConsultaPedidospelas3PrimeirosLetrasdoNomeCliente</name>
+   <tag>ConsultaPedidospelas3PrimeirosLetrasdoNomeCliente</tag>
+   <comment></comment>
+   <testCaseGuid>cca99ebb-c39a-43c7-81c5-e0756fc1ea39</testCaseGuid>
+</TestCaseEntity>

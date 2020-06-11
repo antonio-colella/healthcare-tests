@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cenários de Testes da Funcionalidade Cadastrar Pedido de Venda</description>
+   <name>CadastrarPedidoComUmProdutoSemDescontoCanalVendaPickGo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3caee800-f493-45f1-8dae-8b4b56213055</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaJurídicaSemBuscaCEPBotãoAdicionarNovoClienteComSucesso</description>
+   <name>VerificarCadastroNovoClientePessoaJurídicaSemBuscaCEPBotãoAdicionarNovoClienteComSucesso</name>
+   <tag>VerificarCadastroNovoClientePessoaJurídicaSemBuscaCEPBotãoAdicionarNovoClienteComSucesso</tag>
+   <comment></comment>
+   <testCaseGuid>fa6dc4c9-ab82-4b4d-9f03-5eb750a3cfa6</testCaseGuid>
+</TestCaseEntity>

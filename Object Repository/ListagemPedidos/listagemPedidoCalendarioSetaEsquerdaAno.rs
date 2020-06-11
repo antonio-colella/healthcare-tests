@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listagemPedidoCalendarioSetaEsquerdaAno</name>
+   <tag></tag>
+   <elementGuidId>00e91c5a-e439-4199-b864-85dac707dde1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thf-calendar-nav-left thf-icon thf-icon-arrow-left</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;thf-wrapper&quot;]/app-pedidos[1]/thf-page-default[1]/thf-page[1]/div[@class=&quot;thf-page&quot;]/thf-page-content[1]/div[@class=&quot;thf-page-content&quot;]/div[@class=&quot;thf-xl-12 thf-lg-12 thf-md-12 thf-sm-12 form-container&quot;]/form[@class=&quot;default-form ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;thf-row&quot;]/div[@class=&quot;thf-sm-6 thf-md-6 thf-lg-2 thf-xl-2&quot;]/thf-datepicker[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/thf-field-container[1]/div[@class=&quot;thf-field-container&quot;]/div[@class=&quot;thf-datepicker-popup-calendar&quot;]/thf-calendar[1]/div[@class=&quot;thf-calendar&quot;]/div[1]/div[@class=&quot;thf-calendar-nav&quot;]/span[@class=&quot;thf-calendar-nav-left thf-icon thf-icon-arrow-left&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

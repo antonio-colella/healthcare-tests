@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaFisicaIncluindoRGComLetraContemplandoNumeralComSucesso</description>
+   <name>VerificarCadastroNovoClientePessoaFisicaIncluindoRGComLetraContemplandoNumeralComSucesso</name>
+   <tag>VerificarCadastroNovoClientePessoaFisicaIncluindoRGComLetraContemplandoNumeralComSucesso</tag>
+   <comment></comment>
+   <testCaseGuid>c82331ed-c576-4f3f-98c9-b6d59ac5d705</testCaseGuid>
+</TestCaseEntity>

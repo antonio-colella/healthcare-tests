@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LoginDadosInvalidos</description>
+   <name>LoginDadosInvalidos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c871bb7-ed38-46a2-aa01-8a1a24e759a7</testCaseGuid>
+</TestCaseEntity>

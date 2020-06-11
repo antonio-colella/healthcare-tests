@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaJurídicaComCNPJInvalidoSemBuscaCepAcessandoBotãoNovoCliente</description>
+   <name>VerificarCadastroNovoClientePessoaJurídicaComCNPJInvalidoSemBuscaCepAcessandoBotãoNovoCliente</name>
+   <tag>VerificarCadastroNovoClientePessoaJurídicaComCNPJInvalidoSemBuscaCepAcessandoBotãoNovoCliente</tag>
+   <comment></comment>
+   <testCaseGuid>11ce87d8-9c10-4ccb-8adb-8d1e301e1112</testCaseGuid>
+</TestCaseEntity>

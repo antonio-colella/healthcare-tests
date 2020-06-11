@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaFisicaIncluindoNumeroRGInvalido1111111111</description>
+   <name>VerificarCadastroNovoClientePessoaFisicaIncluindoNumeroRGInvalido1111111111</name>
+   <tag>VerificarCadastroNovoClientePessoaFisicaIncluindoNumeroRGInvalido1111111111</tag>
+   <comment></comment>
+   <testCaseGuid>e29534c7-2553-4ac1-91a0-3a005ed3d3f8</testCaseGuid>
+</TestCaseEntity>

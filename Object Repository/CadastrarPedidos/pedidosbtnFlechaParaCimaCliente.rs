@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pedidosbtnFlechaParaCimaCliente</name>
+   <tag></tag>
+   <elementGuidId>925ab48f-1a07-4204-8c13-d846a3caae32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//thf-combo[@id='entidadeId']/thf-field-container/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thf-icon thf-field-icon thf-icon-arrow-up</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entidadeId&quot;)/thf-field-container[1]/div[@class=&quot;thf-field-container&quot;]/div[@class=&quot;thf-field-container-content&quot;]/div[@class=&quot;thf-field-icon-container-right&quot;]/span[@class=&quot;thf-icon thf-field-icon thf-icon-arrow-up&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//thf-combo[@id='entidadeId']/thf-field-container/div/div[2]/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/thf-combo/thf-field-container/div/div[2]/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

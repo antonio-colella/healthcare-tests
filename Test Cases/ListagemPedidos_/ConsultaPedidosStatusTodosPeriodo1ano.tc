@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ConsultaPedidosStatusTodosPeriodo1ano</description>
+   <name>ConsultaPedidosStatusTodosPeriodo1ano</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d436f190-a5e9-4c0e-bafb-fa812670c488</testCaseGuid>
+</TestCaseEntity>

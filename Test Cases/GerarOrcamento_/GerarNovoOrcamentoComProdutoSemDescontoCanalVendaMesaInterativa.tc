@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaMesaInterativa</description>
+   <name>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaMesaInterativa</name>
+   <tag>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaMesaInterativa</tag>
+   <comment></comment>
+   <testCaseGuid>5984a0d1-f37b-4f8d-9dd3-6056e580a000</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ConsultaSelecionarDataEmissãoPeloCalendário</description>
+   <name>ConsultaSelecionarDataEmissaoPeloCalendario</name>
+   <tag>ConsultaSelecionarDataEmissãoPeloCalendário</tag>
+   <comment></comment>
+   <testCaseGuid>b16352b8-4382-4388-9bed-8b0f67f7ca1b</testCaseGuid>
+</TestCaseEntity>

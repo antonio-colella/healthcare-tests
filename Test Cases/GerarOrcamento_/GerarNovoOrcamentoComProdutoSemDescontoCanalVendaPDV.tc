@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPDV</description>
+   <name>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPDV</name>
+   <tag>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPDV</tag>
+   <comment></comment>
+   <testCaseGuid>cace6d9c-cb80-405d-87fc-1e411abd3e60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cenários de Testes da Funcionalidade Cadastrar Pedido de Venda</description>
+   <name>CadastrarPedidoComUmProdutoSemDescontoCanalVendaClickCollect</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0716cea-7113-4f5c-b7ad-fb7ce405d984</testCaseGuid>
+</TestCaseEntity>

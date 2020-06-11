@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaClickeCollect</description>
+   <name>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaClickeCollect</name>
+   <tag>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaClickeCollect</tag>
+   <comment></comment>
+   <testCaseGuid>fe5434d7-8d08-45b1-b67d-16296c14a009</testCaseGuid>
+</TestCaseEntity>

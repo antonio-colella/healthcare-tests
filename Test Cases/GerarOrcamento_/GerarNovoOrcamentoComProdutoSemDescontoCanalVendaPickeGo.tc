@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPickeGo</description>
+   <name>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPickeGo</name>
+   <tag>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPickeGo</tag>
+   <comment></comment>
+   <testCaseGuid>57e86399-18d6-43c8-b5b2-107bb354bbe0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaJurídicaSemInformarCNPJ</description>
+   <name>VerificarCadastroNovoClientePessoaJurídicaSemInformarCNPJ</name>
+   <tag>VerificarCadastroNovoClientePessoaJurídicaSemInformarCNPJ</tag>
+   <comment></comment>
+   <testCaseGuid>e894b764-c0cd-4c00-baf9-3eeacc4c91b4</testCaseGuid>
+</TestCaseEntity>

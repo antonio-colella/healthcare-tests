@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPreVenda</description>
+   <name>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPreVenda</name>
+   <tag>GerarNovoOrcamentoComProdutoSemDescontoCanalVendaPreVenda</tag>
+   <comment></comment>
+   <testCaseGuid>095cd363-85bd-4336-9aee-06190a4f3918</testCaseGuid>
+</TestCaseEntity>

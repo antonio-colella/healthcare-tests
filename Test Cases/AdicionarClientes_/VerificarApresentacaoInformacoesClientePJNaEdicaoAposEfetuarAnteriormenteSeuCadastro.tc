@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarApresentacaoInformacoesClientePJNaEdicaoAposEfetuarAnteriormenteSeuCadastro</description>
+   <name>VerificarApresentacaoInformacoesClientePJNaEdicaoAposEfetuarAnteriormenteSeuCadastro</name>
+   <tag>VerificarApresentacaoInformacoesClientePJNaEdicaoAposEfetuarAnteriormenteSeuCadastro</tag>
+   <comment></comment>
+   <testCaseGuid>db102815-1ebb-429a-b76e-63321e6857d2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaJurídicaUtilizandoDadosClienteJáCadastrado</description>
+   <name>VerificarCadastroNovoClientePessoaJurídicaUtilizandoDadosClienteJáCadastrado</name>
+   <tag>VerificarCadastroNovoClientePessoaJurídicaUtilizandoDadosClienteJáCadastrado</tag>
+   <comment></comment>
+   <testCaseGuid>9e284603-15f7-473f-a0d0-a5e020c0072d</testCaseGuid>
+</TestCaseEntity>

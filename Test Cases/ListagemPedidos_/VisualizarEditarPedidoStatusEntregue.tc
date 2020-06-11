@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VisualizarEditarPedidoStatusAtualizadoPDV</description>
+   <name>VisualizarEditarPedidoStatusEntregue</name>
+   <tag>VisualizarEditarPedidoStatusAtualizadoPDV</tag>
+   <comment></comment>
+   <testCaseGuid>e6eca2f3-ad0f-492a-b549-bb36d0c6e555</testCaseGuid>
+</TestCaseEntity>

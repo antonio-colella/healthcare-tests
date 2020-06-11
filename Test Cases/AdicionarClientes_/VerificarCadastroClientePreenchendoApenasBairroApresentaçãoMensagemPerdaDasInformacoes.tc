@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroClientePreenchendoApenasBairroApresentaçãoMensagemPerdaDasInformacoesAoSairdoCadastroIncompletoNoPedidoDeVendaParaPessoaFisica</description>
+   <name>VerificarCadastroClientePreenchendoApenasBairroApresentaçãoMensagemPerdaDasInformacoes</name>
+   <tag>VerificarCadastroClientePreenchendoApenasBairroApresentaçãoMensagemPerdaDasInformacoesAoSairdoCadastroIncompletoNoPedidoDeVendaParaPessoaFisica</tag>
+   <comment></comment>
+   <testCaseGuid>4ed4ed65-583c-4c2c-a933-4b083999806a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>CarregarMaisResultadosdePesquisa</description>
+   <name>CarregarMaisResultadosdePesquisa</name>
+   <tag>CarregarMaisResultadosdePesquisa</tag>
+   <comment></comment>
+   <testCaseGuid>eb8b5071-61fe-42de-b322-971fba959fda</testCaseGuid>
+</TestCaseEntity>

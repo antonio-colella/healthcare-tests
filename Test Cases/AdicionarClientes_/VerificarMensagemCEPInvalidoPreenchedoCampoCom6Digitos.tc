@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarMensagemCEPInvalidoPreenchedoCampoCom6Digitos</description>
+   <name>VerificarMensagemCEPInvalidoPreenchedoCampoCom6Digitos</name>
+   <tag>VerificarMensagemCEPInvalidoPreenchedoCampoCom6Digitos</tag>
+   <comment></comment>
+   <testCaseGuid>c88da8ef-b2f2-4492-84a8-756d822279c5</testCaseGuid>
+</TestCaseEntity>

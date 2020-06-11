@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VisualizarEditarPedidoStatusCanceladoPDV</description>
+   <name>VisualizarEditarPedidoStatusCanceladoPDV</name>
+   <tag>VisualizarEditarPedidoStatusCanceladoPDV</tag>
+   <comment></comment>
+   <testCaseGuid>c58cfe14-75fc-48e6-8cee-f50a993d2917</testCaseGuid>
+</TestCaseEntity>

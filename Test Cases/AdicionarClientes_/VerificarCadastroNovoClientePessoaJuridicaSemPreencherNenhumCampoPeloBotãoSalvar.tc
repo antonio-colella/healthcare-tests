@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarCadastroNovoClientePessoaJuridicaSemPreencherNenhumCampoPeloBotãoSalvar</description>
+   <name>VerificarCadastroNovoClientePessoaJuridicaSemPreencherNenhumCampoPeloBotãoSalvar</name>
+   <tag>VerificarCadastroNovoClientePessoaJuridicaSemPreencherNenhumCampoPeloBotãoSalvar</tag>
+   <comment></comment>
+   <testCaseGuid>f69f9b89-8b43-4b46-baca-f0d5395e505c</testCaseGuid>
+</TestCaseEntity>

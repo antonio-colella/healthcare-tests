@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ConsultaPedidoComDataInvalidaPeriodoDE</description>
+   <name>ConsultaPedidoComDataInvalidaPeriodoDE</name>
+   <tag>ConsultaPedidoComDataInvalidaPeriodoDE</tag>
+   <comment></comment>
+   <testCaseGuid>f65c0c65-3660-4122-bbb8-15808af3e976</testCaseGuid>
+</TestCaseEntity>

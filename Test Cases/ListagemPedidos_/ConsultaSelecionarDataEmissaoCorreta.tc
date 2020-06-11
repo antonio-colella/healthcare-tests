@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ConsultaSelecionarDataEmissãoCorreta</description>
+   <name>ConsultaSelecionarDataEmissaoCorreta</name>
+   <tag>ConsultaSelecionarDataEmissãoCorreta</tag>
+   <comment></comment>
+   <testCaseGuid>1f1109db-fbb6-4b87-bbef-4ad8dd981d84</testCaseGuid>
+</TestCaseEntity>

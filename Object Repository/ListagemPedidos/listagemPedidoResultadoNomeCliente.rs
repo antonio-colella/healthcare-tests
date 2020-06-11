@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listagemPedidoResultadoNomeCliente</name>
+   <tag></tag>
+   <elementGuidId>52031a8b-546c-46af-b765-dd8918f065e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//thf-table[@id='tablePedidos']/thf-container/div/div/div/div/div/table/tbody/tr/td[3]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tablePedidos&quot;)/thf-container[1]/div[@class=&quot;thf-container-no-padding&quot;]/div[1]/div[@class=&quot;thf-table-main-container&quot;]/div[@class=&quot;thf-table-wrapper&quot;]/div[1]/table[@class=&quot;thf-table&quot;]/tbody[@class=&quot;thf-table-group-row&quot;]/tr[@class=&quot;thf-table-row&quot;]/td[@class=&quot;thf-table-column&quot;]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Violeta Miranda</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePedidos&quot;)/thf-container[1]/div[@class=&quot;thf-container-no-padding&quot;]/div[1]/div[@class=&quot;thf-table-main-container&quot;]/div[@class=&quot;thf-table-wrapper&quot;]/div[1]/table[@class=&quot;thf-table&quot;]/tbody[@class=&quot;thf-table-group-row&quot;]/tr[@class=&quot;thf-table-row&quot;]/td[@class=&quot;thf-table-column&quot;]/div[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//thf-table[@id='tablePedidos']/thf-container/div/div/div/div/div/table/tbody/tr/td[3]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS ATUAL'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AtualizadoPDV'])[2]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div</value>
+   </webElementXpaths>
+</WebElementEntity>
